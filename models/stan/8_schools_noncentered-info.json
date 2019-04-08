@@ -1,0 +1,4 @@
+{
+    "posterior_predictive": [{"original": "y_hat", "rename": "y"}],
+    "log_likelihood": "log_lik"
+}
