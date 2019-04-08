@@ -1,0 +1,10 @@
+{
+    "prior": [{
+        "original": "pi_",
+        "rename": "pi"
+    }],
+    "prior_predictive": [{
+        "original": "y_",
+        "rename": "y"
+    }]
+}
